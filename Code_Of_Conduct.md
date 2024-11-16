@@ -2,7 +2,7 @@
 
 ## Commitment
 
-We are committed to providing a welcoming and inclusive environment for everyone. We value and respect contributions from all individuals, regardless of background or experience level.
+I are committed to providing a welcoming and inclusive environment for everyone. I value and respect contributions from all individuals, regardless of background or experience level.
 
 ## Standards
 
@@ -13,7 +13,7 @@ In this project, contributors are expected to:
 - Offer constructive feedback and seek it in return.
 - Show respect for differing viewpoints and experiences.
 
-We will not tolerate behavior that is:
+I will not tolerate behavior that is:
 
 - Discriminatory, derogatory, or offensive.
 - Harassing, abusive, or personally attacking.
