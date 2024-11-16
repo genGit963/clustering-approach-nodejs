@@ -21,7 +21,7 @@ I will not tolerate behavior that is:
 
 ## Reporting
 
-If you experience or witness behavior that violates this Code of Conduct, please report it by contacting the project maintainers at [your-email@example.com]. All reports will be reviewed and investigated confidentially.
+If you experience or witness behavior that violates this Code of Conduct, please report it by contacting the project maintainer. All reports will be reviewed and investigated confidentially.
 
 ## Acknowledgement
 
