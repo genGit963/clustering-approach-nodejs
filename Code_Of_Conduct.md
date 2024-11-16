@@ -25,4 +25,4 @@ If you experience or witness behavior that violates this Code of Conduct, please
 
 ## Acknowledgement
 
-By participating in this project, you agree to abide by this Code of Conduct and help us maintain a positive community.
+By participating in this project, you agree to abide by this Code of Conduct and help me maintain a positive community.
