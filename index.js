@@ -32,9 +32,16 @@ console.log("New Instance of nodejs/cluster begins.....");
 if (cluster.isPrimary) {
   // master process
   console.log("Master started....");
-  // manuel forking
-  cluster.fork(); // 1st worker
-  cluster.fork(); // 2nd worker
+  //   // manuel forking
+  //   cluster.fork(); // 1st worker
+  //   cluster.fork(); // 2nd worker
+
+  //   OS number of handling cores based forking
+  const NUM_WORKERS = os.cpus().length; // no of cores of this OS
+  for (let worker = 0; worker < NUM_WORKERS; worker++) {
+    cluster.fork();
+  }
+
   console.log("Workers Count: ", Object.keys(cluster.workers).length);
 } else {
   // workers process
