@@ -1,11 +1,6 @@
----
+# **Code of Conduct**
 
-### 3. **Code of Conduct**
-
-```markdown
-# Contributor Code of Conduct
-
-## Our Commitment
+## Commitment
 
 We are committed to providing a welcoming and inclusive environment for everyone. We value and respect contributions from all individuals, regardless of background or experience level.
 
@@ -31,4 +26,3 @@ If you experience or witness behavior that violates this Code of Conduct, please
 ## Acknowledgement
 
 By participating in this project, you agree to abide by this Code of Conduct and help us maintain a positive community.
-```
